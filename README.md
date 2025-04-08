@@ -1,3 +1,5 @@
+<img src="https://github.com/ngocthienle/Roadmap-Python-for-Urban-Planning-and-Design/blob/main/images/Python4UPD_Logo.png" alt="Python4UPD" width="500" height="500">
+
 <a href="url"><img src="https://github.com/ngocthienle/Roadmap-Python-for-Urban-Planning-and-Design/blob/main/images/Python4UPD_Logo.png" align="center" height="200" width="200" ></a>
 
 # Roadmap Python for Urban Planning and Design
