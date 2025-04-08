@@ -5,6 +5,7 @@
     </picture>
 
 </div>
+
 # Roadmap Python for Urban Planning and Design
 This is the roadmap for learning Python for Urban Planning and Design by the following topics. Each topic requires the Python libraries.
 ## 1. Python Programming Language
