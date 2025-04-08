@@ -24,3 +24,85 @@ cartopy – For map projections and plotting geospatial data (good for more comp
 contextily – For adding basemaps to geopandas plots.
 
 movingpandas – For analyzing trajectory data (e.g., GPS tracks of people or vehicles).
+
+🧠 Machine Learning & Deep Learning
+Commonly used in spatial prediction, land-use modeling, or image classification.
+
+scikit-learn – Classical ML algorithms and evaluation tools.
+
+xgboost / lightgbm / catboost – Gradient boosting methods, useful for land-use classification, transport modeling, etc.
+
+tensorflow / keras – Deep learning frameworks, especially for image, satellite, and sensor data.
+
+pytorch – Powerful and flexible DL framework, gaining wide adoption in academia.
+
+
+🌳 Remote Sensing & Urban Environment Monitoring
+For working with satellite imagery or LiDAR data.
+
+rasterio – For reading/writing raster data (again, key for remote sensing).
+
+earthpy – Simplifies common remote sensing workflows.
+
+sentinelsat – For accessing Sentinel satellite data.
+
+py3dep – For accessing USGS 3DEP elevation data.
+
+pylidar / laspy – For processing LiDAR point cloud data.
+
+📊 Urban Data Analytics & Visualization
+To analyze and communicate findings effectively.
+
+pandas – Core data analysis tool for tabular/temporal data.
+
+matplotlib / seaborn – For static visualization.
+
+plotly / bokeh – For interactive data visualizations.
+
+altair – Grammar-of-graphics style plotting, great for dashboards.
+
+dash / streamlit – For building interactive web apps for urban dashboards.
+
+🏙️ Urban Simulation & Modeling
+For modeling urban dynamics, land use, or agent behavior.
+
+urbanpy – Tools for geospatial data in urban modeling.
+
+pandana – Fast network analysis for accessibility and proximity measures.
+
+momepy – Morphological analysis of urban form (urban morphology + geopandas).
+
+sumo (via traci) – Traffic simulation using the SUMO model.
+
+urbansim – Land use, real estate, and transportation modeling for metropolitan regions.
+
+mesa – Agent-based modeling framework.
+
+spatialaccess – Measuring accessibility via spatial interaction models.
+
+🌐 Data Access & APIs
+For pulling in open urban data (census, weather, OSM).
+
+osmnx – For downloading and analyzing OpenStreetMap data.
+
+geopy – For geocoding and reverse geocoding.
+
+pyrosm – Fast parsing of OSM PBF files.
+
+pandas-datareader – For pulling data from online APIs.
+
+censusdata / cenpy – For accessing U.S. Census data.
+
+🔄 Spatiotemporal Modeling & Urban Dynamics
+Increasingly important for dynamic urban systems.
+
+statsmodels – Time-series models (ARIMA, regression, etc.).
+
+pmdarima – Auto-ARIMA for time-series forecasting.
+
+tsfresh – Extract features from time series for ML.
+
+h3 / geohash – Spatial indexing for scalable geospatial analytics.
+
+pykrige – Kriging and spatial interpolation.
+
