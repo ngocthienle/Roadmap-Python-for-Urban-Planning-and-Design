@@ -4,7 +4,7 @@
         <source media="(prefers-color-scheme: light)" srcset="https://github.com/ngocthienle/Roadmap-Python-for-Urban-Planning-and-Design/images/Python4UPD_Logo.svg?raw=true">
     </picture>
 
-![Python4UPD]("https://github.com/ngocthienle/Roadmap-Python-for-Urban-Planning-and-Design/blob/main/images/Python4UPD_Logo.png" width="48")
+![Python4UPD](https://github.com/ngocthienle/Roadmap-Python-for-Urban-Planning-and-Design/blob/main/images/Python4UPD_Logo.png)
 <img src="[https://github.com/favicon.ico](https://github.com/ngocthienle/Roadmap-Python-for-Urban-Planning-and-Design/blob/main/images/Python4UPD_Logo.png" width="48">
 
 # Roadmap Python for Urban Planning and Design
