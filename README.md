@@ -1,10 +1,7 @@
 # Roadmap Python for Urban Planning and Design
 This is the roadmap for learning Python for Urban Planning and Design by the following topics. Each topic requires the Python libraries.
-
-## Prerequisites
-
 ## 1. Python Programming Language
-
+Prerequisites installing Python programming language and editor software for users.
 ### 1.1. Install Python via Anaconda
 How to install Anaconda for Windown machine
 How to install Anaconda for MAC machine
