@@ -6,31 +6,25 @@ This is the roadmap for learning Python for Urban Planning and Design by the fol
 ## 1. Python Programming Language
 
 ### 1.1. Install Python via Anaconda
-### 1.2. Install Visual Studio Code
-
+How to install Anaconda for Windown machine
+How to install Anaconda for MAC machine
+### 1.2. Install Visual Studio Code (VSC)
+How to install VSC for Windown machine
+How to install VSC for MAC machine
 ## 2. List of required libraries for each topic of Urban Planning and Design
+### 2.1. Basic topics
 ### 🗺️ Geospatial Analysis and GIS
 These are essential for working with spatial data—core to urban planning.
-
-geopandas – For handling and analyzing geospatial vector data (shapefiles, GeoJSON, etc.).
-
-shapely – For geometric operations (e.g., buffering, intersections, etc.).
-
-fiona – For reading/writing spatial data (used under the hood by geopandas).
-
-pyproj – For coordinate reference system (CRS) transformations.
-
-rasterio – For reading and writing raster datasets (e.g., satellite images).
-
-osmnx – For downloading, analyzing, and visualizing street networks and other OSM data.
-
-folium / ipyleaflet – For interactive web maps in Jupyter Notebooks.
-
-cartopy – For map projections and plotting geospatial data (good for more complex cartography).
-
-contextily – For adding basemaps to geopandas plots.
-
-movingpandas – For analyzing trajectory data (e.g., GPS tracks of people or vehicles).
+- geopandas – For handling and analyzing geospatial vector data (shapefiles, GeoJSON, etc.).
+- shapely – For geometric operations (e.g., buffering, intersections, etc.).
+- fiona – For reading/writing spatial data (used under the hood by geopandas).
+- pyproj – For coordinate reference system (CRS) transformations.
+- rasterio – For reading and writing raster datasets (e.g., satellite images).
+- osmnx – For downloading, analyzing, and visualizing street networks and other OSM data.
+- folium / ipyleaflet – For interactive web maps in Jupyter Notebooks.
+- cartopy – For map projections and plotting geospatial data (good for more complex cartography).
+- contextily – For adding basemaps to geopandas plots.
+- movingpandas – For analyzing trajectory data (e.g., GPS tracks of people or vehicles).
 
 ### 🧠 Machine Learning & Deep Learning
 Commonly used in spatial prediction, land-use modeling, or image classification.
