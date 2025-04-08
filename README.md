@@ -10,7 +10,8 @@ How to install VSC for Windown machine
 How to install VSC for MAC machine
 ## 2. List of required libraries for each topic of Urban Planning and Design
 ### 2.1. Basic topics
-### 🗺️ Geospatial Analysis and GIS
+
+#### 🗺️ Geospatial Analysis and GIS
 These are essential for working with spatial data—core to urban planning.
 - geopandas – For handling and analyzing geospatial vector data (shapefiles, GeoJSON, etc.).
 - shapely – For geometric operations (e.g., buffering, intersections, etc.).
@@ -23,32 +24,22 @@ These are essential for working with spatial data—core to urban planning.
 - contextily – For adding basemaps to geopandas plots.
 - movingpandas – For analyzing trajectory data (e.g., GPS tracks of people or vehicles).
 
-### 🧠 Machine Learning & Deep Learning
+#### 🧠 Machine Learning & Deep Learning
 Commonly used in spatial prediction, land-use modeling, or image classification.
+- scikit-learn – Classical ML algorithms and evaluation tools.
+- xgboost / lightgbm / catboost – Gradient boosting methods, useful for land-use classification, transport modeling, etc.
+- tensorflow / keras – Deep learning frameworks, especially for image, satellite, and sensor data.
+- pytorch – Powerful and flexible DL framework, gaining wide adoption in academia.
 
-scikit-learn – Classical ML algorithms and evaluation tools.
-
-xgboost / lightgbm / catboost – Gradient boosting methods, useful for land-use classification, transport modeling, etc.
-
-tensorflow / keras – Deep learning frameworks, especially for image, satellite, and sensor data.
-
-pytorch – Powerful and flexible DL framework, gaining wide adoption in academia.
-
-
-🌳 Remote Sensing & Urban Environment Monitoring
+#### 🌳 Remote Sensing & Urban Environment Monitoring
 For working with satellite imagery or LiDAR data.
+- rasterio – For reading/writing raster data (again, key for remote sensing).
+- earthpy – Simplifies common remote sensing workflows.
+- sentinelsat – For accessing Sentinel satellite data.
+- py3dep – For accessing USGS 3DEP elevation data.
+- pylidar / laspy – For processing LiDAR point cloud data.
 
-rasterio – For reading/writing raster data (again, key for remote sensing).
-
-earthpy – Simplifies common remote sensing workflows.
-
-sentinelsat – For accessing Sentinel satellite data.
-
-py3dep – For accessing USGS 3DEP elevation data.
-
-pylidar / laspy – For processing LiDAR point cloud data.
-
-📊 Urban Data Analytics & Visualization
+#### 📊 Urban Data Analytics & Visualization
 To analyze and communicate findings effectively.
 
 pandas – Core data analysis tool for tabular/temporal data.
