@@ -1,8 +1,15 @@
 # Roadmap Python for Urban Planning and Design
- This is the roadmap for learning Python for Urban Planning and Design
+This is the roadmap for learning Python for Urban Planning and Design by the following topics. Each topic requires the Python libraries.
 
+## Prerequisites
 
-🗺️ Geospatial Analysis and GIS
+## 1. Python Programming Language
+
+### 1.1. Install Python via Anaconda
+### 1.2. Install Visual Studio Code
+
+## 2. List of required libraries for each topic of Urban Planning and Design
+### 🗺️ Geospatial Analysis and GIS
 These are essential for working with spatial data—core to urban planning.
 
 geopandas – For handling and analyzing geospatial vector data (shapefiles, GeoJSON, etc.).
@@ -25,7 +32,7 @@ contextily – For adding basemaps to geopandas plots.
 
 movingpandas – For analyzing trajectory data (e.g., GPS tracks of people or vehicles).
 
-🧠 Machine Learning & Deep Learning
+### 🧠 Machine Learning & Deep Learning
 Commonly used in spatial prediction, land-use modeling, or image classification.
 
 scikit-learn – Classical ML algorithms and evaluation tools.
