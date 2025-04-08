@@ -5,6 +5,7 @@
     </picture>
 
 ![Python4UPD]("https://github.com/ngocthienle/Roadmap-Python-for-Urban-Planning-and-Design/blob/main/images/Python4UPD_Logo.png" width="48")
+<img src="[https://github.com/favicon.ico](https://github.com/ngocthienle/Roadmap-Python-for-Urban-Planning-and-Design/blob/main/images/Python4UPD_Logo.png" width="48">
 
 # Roadmap Python for Urban Planning and Design
 This is the roadmap for learning Python for Urban Planning and Design by the following topics. Each topic requires the Python libraries.
