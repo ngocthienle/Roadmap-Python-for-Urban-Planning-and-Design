@@ -91,62 +91,58 @@ Related to walking, transit, freight, and accessibility. E.g., centrality, conne
 - Wayfinding and spatial legibility (#7)
 
 ### 3.2. 🌇 Urban Morphology and Spatial Form Analysis
-    Focused on physical structure, layout, and form of urban spaces
-    e.g., measuring block size, building compactness, street orientation
-    👉 (best with momepy, geopandas, shapely, contextily)
+Focused on physical structure, layout, and form of urban spaces. E.g., measuring block size, building compactness, street orientation
+👉 (best with momepy, geopandas, shapely, contextily)
 
-    Building footprint and block metrics
-    Typo-morphological classification of building stocks (#22)
-    Urban patchwork analysis (land use mosaic) (#14)
-    Lost space detection in urban grids (#25)
-    Spatiotemporal patterns of vertical growth (#12)
-    Temporal morphology of housing developments (#26)
-    Urban fabric classification with unsupervised learning (#20)
-    Campus urbanism and spatial performance of universities (#18)
+- Building footprint and block metrics
+- Typo-morphological classification of building stocks (#22)
+- Urban patchwork analysis (land use mosaic) (#14)
+- Lost space detection in urban grids (#25)
+- Spatiotemporal patterns of vertical growth (#12)
+- Temporal morphology of housing developments (#26)
+- Urban fabric classification with unsupervised learning (#20)
+- Campus urbanism and spatial performance of universities (#18)
     
 ### 3.3. 📍 Equity, Inclusion, Justice, and Accessibility & Spatial Equity Modeling
-    Related to Socio-spatial inequality, distribution, and justice
-    e.g., access to parks, schools, transit within walkable distances
-    👉 (use pandana, osmnx, geopandas, spatialaccess, r5py)
+Related to Socio-spatial inequality, distribution, and justice. E.g., access to parks, schools, transit within walkable distances
+👉 (use pandana, osmnx, geopandas, spatialaccess, r5py)
 
-    Social equity in public space distribution (#1)
-    Cycling infrastructure equity analysis (#19)
-    Vacancy and urban shrinkage modeling (#8)
-    Zoning code compliance checker (#16)
-    Perceived safety and urban form (#17)
+- Social equity in public space distribution (#1)
+- Cycling infrastructure equity analysis (#19)
+- Vacancy and urban shrinkage modeling (#8)
+- Zoning code compliance checker (#16)
+- Perceived safety and urban form (#17)
 
 ### 3.4. 🌿 Climate, Environment, Resilience, and Green Infrastructure
-    Related to Environmental performance, green infrastructure, and hazards
-    e.g., NDVI calculation, tree canopy mapping from satellite or LiDAR
-    👉 (earthpy, rasterio, sentinelsat, laspy, pylidar)
-    
-    Urban heat island and tree canopy mitigation (#6)
-    Urban carbon footprint mapping (#21)
-    Green roof and urban farming suitability (#27)
-    Disaster resilience of urban infrastructure (#9)
-    Nighttime urban activity detection
+Related to Environmental performance, green infrastructure, and hazards. E.g., NDVI calculation, tree canopy mapping from satellite or LiDAR
+👉 (earthpy, rasterio, sentinelsat, laspy, pylidar)
+
+- Urban heat island and tree canopy mitigation (#6)
+- Urban carbon footprint mapping (#21)
+- Green roof and urban farming suitability (#27)
+- Disaster resilience of urban infrastructure (#9)
+- Nighttime urban activity detection
 
 ### 3.5. 🏘️ Land Use Simulation / Urban Growth Modeling
-    Related to Land use transitions, development logic, spatial planning
-    e.g., agent-based models or real estate markets over time
-    👉 (urbansim, mesa, scikit-learn, xgboost)
-    Commercial land use fragmentation (#13)
-    Zoning code compliance and underutilized parcels (#16)
-    TOD suitability analysis (#15, also in mobility)
-    Patchwork entropy and land-use heterogeneity (#14, also in morphology)
+Related to Land use transitions, development logic, spatial planning. E.g., agent-based models or real estate markets over time
+👉 (urbansim, mesa, scikit-learn, xgboost)
+
+- Commercial land use fragmentation (#13)
+- Zoning code compliance and underutilized parcels (#16)
+- TOD suitability analysis (#15, also in mobility)
+- Patchwork entropy and land-use heterogeneity (#14, also in morphology)
 
 
 ### 3.6. 🛰️ Spatiotemporal Dynamics & Simulation for Urban Systems
-    Related to Machine learning, simulation, digital twins, spatial stats
-    e.g., urban heat island changes over time or traffic sensor forecasting
-    👉 (tsfresh, pmdarima, h3, movingpandas)
+Related to Machine learning, simulation, digital twins, spatial stats. E.g., urban heat island changes over time or traffic sensor forecasting
+👉 (tsfresh, pmdarima, h3, movingpandas)
 
-    Urban prototyping with participatory design (#28)
-    Behavioral simulation of public space usage (#10)
-    Digital twins for neighborhood-scale planning (#30)
-    Informal settlement detection using satellite data (#4)
-    Vacant lot activation and predictive modeling (#29)
-    3D urban form and shadow analysis (#3)
+- Urban prototyping with participatory design (#28)
+- Behavioral simulation of public space usage (#10)
+- Digital twins for neighborhood-scale planning (#30)
+- Informal settlement detection using satellite data (#4)
+- Vacant lot activation and predictive modeling (#29)
+- 3D urban form and shadow analysis (#3)
 
 ## 4. Details Research Goals & Projects
     1. 🧑‍🤝‍🧑 Social Equity in Public Space Distribution
