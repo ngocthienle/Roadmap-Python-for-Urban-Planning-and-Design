@@ -255,10 +255,10 @@ Commonly used in spatial prediction, land-use modeling, or image classification.
     Tools: geopandas, energy modeling APIs, transport survey data, scikit-learn
     Sample Question: Which urban districts contribute most to per-capita emissions, and how can zoning changes reduce it?
 
-    22. 🧱 Typo-Morphological Classification of Building Stocks
-    Goal: Develop a classification system of building types (e.g. rowhouses, towers, courtyard blocks) using spatial and geometric features.
-    Tools: momepy, scikit-learn, PCA, UMAP, matplotlib
-    Sample Question: What are the dominant housing morphologies in suburban vs. inner-city zones?
+### 22. 🧱 Typo-Morphological Classification of Building Stocks
+Goal: Develop a classification system of building types (e.g. rowhouses, towers, courtyard blocks) using spatial and geometric features.
+Tools: momepy, scikit-learn, PCA, UMAP, matplotlib
+Sample Question: What are the dominant housing morphologies in suburban vs. inner-city zones?
 
     23. 🌃 Nighttime Urban Activity Detection Using Satellite Imagery
     Goal: Use nightlight imagery to infer urban activity intensity, informal settlements, and economic patterns.
