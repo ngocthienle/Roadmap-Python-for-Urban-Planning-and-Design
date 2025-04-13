@@ -80,16 +80,15 @@ Commonly used in spatial prediction, land-use modeling, or image classification.
 
 ## 3. Thematic Categories of UPD Projects
 ### 3.1. 🛣️ Mobility, Transist, Access and Urban Street Network Analysis
-    Related to walking, transit, freight, and accessibility
-    e.g., centrality, connectivity, walkability using OpenStreetMap data
-    👉 (good for osmnx, momepy, networkx)
+Related to walking, transit, freight, and accessibility. E.g., centrality, connectivity, walkability using OpenStreetMap data
+👉 (good for osmnx, momepy, networkx)
 
-    Walkability index mapping (#11)
-    Transit-oriented development (TOD) potential scoring (#15)
-    Public transit reliability and rider experience (#5)
-    Urban freight & last-mile logistics optimization (#2)
-    Simulating impact of proposed urban projects (#24)
-    Wayfinding and spatial legibility (#7)
+- Walkability index mapping (#11)
+- Transit-oriented development (TOD) potential scoring (#15)
+- Public transit reliability and rider experience (#5)
+- Urban freight & last-mile logistics optimization (#2)
+- Simulating impact of proposed urban projects (#24)
+- Wayfinding and spatial legibility (#7)
 
 ### 3.2. 🌇 Urban Morphology and Spatial Form Analysis
     Focused on physical structure, layout, and form of urban spaces
