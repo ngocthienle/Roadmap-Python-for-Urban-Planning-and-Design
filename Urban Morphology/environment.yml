@@ -17,5 +17,8 @@ dependencies:
   - networkx                # Underlying graph analysis
   - jupyterlab
   - rtree
+  - dash
+  - dash_table
+  - plotly
   - ipython
   - pip
