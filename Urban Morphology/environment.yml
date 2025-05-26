@@ -18,7 +18,7 @@ dependencies:
   - jupyterlab
   - rtree
   - dash
-  - dash_table
+  #- dash_table
   - plotly
   - ipython
   - pip
